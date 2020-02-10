@@ -1,0 +1,22 @@
+p{
+	color: red;
+	font-size: 22px;
+}
+
+
+h1{
+	color: blue;
+}
+.myStyle{
+	color: green;
+	font-size: 20px;
+	font-weight: bold;
+	height: 50vh;
+	width: 30vw;
+	background-color: pink;
+}
+
+#myHeading{
+	color:blue;
+	background-color: pink;
+}
